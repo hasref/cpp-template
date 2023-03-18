@@ -1,0 +1,10 @@
+# build  
+build/
+.cache/
+
+# lsp 
+tags
+compile_commands.json
+
+# cmake
+CMakeUserPresets.json
